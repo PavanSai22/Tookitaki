@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[Launch URL:https://demo-dss.tookitaki.com/]]>
+    </line>
+    <line>
+      <![CDATA[Clear the cookies]]>
+    </line>
+    <line>
+      <![CDATA[Clear and Type - username ]]>
+    </line>
+    <line>
+      <![CDATA[Clear and Type - Password ]]>
+    </line>
+    <line>
+      <![CDATA[userLogin is Clicked]]>
+    </line>
+    <line>
+      <![CDATA[Either user does not exist or password is wrong!]]>
+    </line>
+    <line>
+      <![CDATA[Clear and Type - username ]]>
+    </line>
+    <line>
+      <![CDATA[Clear and Type - Password ]]>
+    </line>
+    <line>
+      <![CDATA[userLogin is Clicked]]>
+    </line>
+    <line>
+      <![CDATA[Waited for element]]>
+    </line>
+    <line>
+      <![CDATA[Dashboard is Clicked]]>
+    </line>
+    <line>
+      <![CDATA[Assemble is Clicked]]>
+    </line>
+    <line>
+      <![CDATA[Upload Terminal ID CSV File is Clicked]]>
+    </line>
+    <line>
+      <![CDATA[Waited for element]]>
+    </line>
+    <line>
+      <![CDATA[Waited for element]]>
+    </line>
+    <line>
+      <![CDATA[Calculate Summary is Clicked]]>
+    </line>
+    <line>
+      <![CDATA[Calculate Summary-Yes is Clicked]]>
+    </line>
+    <line>
+      <![CDATA[Path is Clicked]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="42807" started-at="2017-09-05T06:24:36Z" finished-at="2017-09-05T06:25:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="42807" started-at="2017-09-05T06:24:36Z" finished-at="2017-09-05T06:25:19Z">
+      <class name="commonMethods.Testcases">
+        <test-method status="PASS" signature="getDataFromConfig()[pri:0, instance:commonMethods.Testcases@4470f8a6]" name="getDataFromConfig" is-config="true" duration-ms="5775" started-at="2017-09-05T11:54:36Z" finished-at="2017-09-05T11:54:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDataFromConfig -->
+        <test-method status="PASS" signature="login()[pri:1, instance:commonMethods.Testcases@4470f8a6]" name="login" duration-ms="17118" started-at="2017-09-05T11:54:42Z" finished-at="2017-09-05T11:54:59Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Launch URL:https://demo-dss.tookitaki.com/]]>
+            </line>
+            <line>
+              <![CDATA[Clear the cookies]]>
+            </line>
+            <line>
+              <![CDATA[Clear and Type - username ]]>
+            </line>
+            <line>
+              <![CDATA[Clear and Type - Password ]]>
+            </line>
+            <line>
+              <![CDATA[userLogin is Clicked]]>
+            </line>
+            <line>
+              <![CDATA[Either user does not exist or password is wrong!]]>
+            </line>
+            <line>
+              <![CDATA[Clear and Type - username ]]>
+            </line>
+            <line>
+              <![CDATA[Clear and Type - Password ]]>
+            </line>
+            <line>
+              <![CDATA[userLogin is Clicked]]>
+            </line>
+            <line>
+              <![CDATA[Waited for element]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="upload()[pri:32, instance:commonMethods.Testcases@4470f8a6]" name="upload" duration-ms="16598" started-at="2017-09-05T11:54:59Z" finished-at="2017-09-05T11:55:16Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Dashboard is Clicked]]>
+            </line>
+            <line>
+              <![CDATA[Assemble is Clicked]]>
+            </line>
+            <line>
+              <![CDATA[Upload Terminal ID CSV File is Clicked]]>
+            </line>
+            <line>
+              <![CDATA[Waited for element]]>
+            </line>
+            <line>
+              <![CDATA[Waited for element]]>
+            </line>
+            <line>
+              <![CDATA[Calculate Summary is Clicked]]>
+            </line>
+            <line>
+              <![CDATA[Calculate Summary-Yes is Clicked]]>
+            </line>
+            <line>
+              <![CDATA[Path is Clicked]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- upload -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:commonMethods.Testcases@4470f8a6]" name="teardown" is-config="true" duration-ms="3279" started-at="2017-09-05T11:55:16Z" finished-at="2017-09-05T11:55:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- commonMethods.Testcases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
