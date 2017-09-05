@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 30, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 3,361.686 s <<< FAILURE! - in TestSuite
+rblModel(commonMethods.Testcases)  Time elapsed: 883.805 s  <<< FAILURE!
+java.lang.AssertionError: null
+	at commonMethods.Testcases.rblModel(Testcases.java:205)
+
+amlPipeline(commonMethods.Testcases)  Time elapsed: 119.764 s  <<< FAILURE!
+java.lang.AssertionError
+	at commonMethods.Testcases.amlPipeline(Testcases.java:209)
+
+rblPipeline(commonMethods.Testcases)  Time elapsed: 31.7 s  <<< FAILURE!
+java.lang.AssertionError
+	at commonMethods.Testcases.rblPipeline(Testcases.java:213)
+

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite configfailurepolicy="continue" verbose="0" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="commonMethods.Testcases">
+        <methods>
+          <include name="amlTransformationProject"/>
+          <include name="rblTransformationTranspose"/>
+          <include name="amlPipeline"/>
+          <include name="rblPipeline"/>
+          <include name="explore"/>
+          <include name="rblModel"/>
+          <include name="amlN_Union3"/>
+          <include name="rblTransformSlide"/>
+          <include name="rblTransformJoin2"/>
+          <include name="getDataFromConfig"/>
+          <include name="amlTransformJoin"/>
+          <include name="amlN_Union1"/>
+          <include name="rblTransformJoin"/>
+          <include name="rblTransformAggregate"/>
+          <include name="amlN_Union2"/>
+          <include name="amlTransformEncode"/>
+          <include name="amlBalance_With_Fraction2"/>
+          <include name="rblTransformSplit"/>
+          <include name="amlBalance_With_Fraction3"/>
+          <include name="amlModel"/>
+          <include name="teardown"/>
+          <include name="amlBalance_With_Fraction1"/>
+          <include name="amlBalance_With_Fraction4"/>
+          <include name="cluster"/>
+          <include name="amlFilterPredection3"/>
+          <include name="amlFilterPredection5"/>
+          <include name="rblTransformAggregate2"/>
+          <include name="amlFilterPredection4"/>
+          <include name="rblTransformationProject"/>
+          <include name="login"/>
+          <include name="amlFilterPredection2"/>
+          <include name="amlFilterPredection1"/>
+        </methods>
+      </class> <!-- commonMethods.Testcases -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

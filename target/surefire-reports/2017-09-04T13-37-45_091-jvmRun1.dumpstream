@@ -1,0 +1,548 @@
+# Created on 2017-09-04T13:37:47.620
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:386)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created on 2017-09-04T13:37:49.308
+Unexpected IOException with stream: Enters to @before class
+
+
+# Created on 2017-09-04T13:37:50.074
+Unexpected IOException with stream: Browser launched...
+
+
+# Created on 2017-09-04T13:37:51.178
+Unexpected IOException with stream: S
+
+# Created on 2017-09-04T13:37:51.179
+Unexpected IOException with stream: t
+
+# Created on 2017-09-04T13:37:51.181
+Unexpected IOException with stream: a
+
+# Created on 2017-09-04T13:37:51.182
+Unexpected IOException with stream: r
+
+# Created on 2017-09-04T13:37:51.183
+Unexpected IOException with stream: t
+
+# Created on 2017-09-04T13:37:51.185
+Unexpected IOException with stream: i
+
+# Created on 2017-09-04T13:37:51.186
+Unexpected IOException with stream: n
+
+# Created on 2017-09-04T13:37:51.187
+Unexpected IOException with stream: g
+
+# Created on 2017-09-04T13:37:51.188
+Unexpected IOException with stream:  
+
+# Created on 2017-09-04T13:37:51.188
+Unexpected IOException with stream: C
+
+# Created on 2017-09-04T13:37:51.189
+Unexpected IOException with stream: h
+
+# Created on 2017-09-04T13:37:51.190
+Unexpected IOException with stream: r
+
+# Created on 2017-09-04T13:37:51.191
+Unexpected IOException with stream: o
+
+# Created on 2017-09-04T13:37:51.192
+Unexpected IOException with stream: m
+
+# Created on 2017-09-04T13:37:51.193
+Unexpected IOException with stream: e
+
+# Created on 2017-09-04T13:37:51.194
+Unexpected IOException with stream: D
+
+# Created on 2017-09-04T13:37:51.195
+Unexpected IOException with stream: r
+
+# Created on 2017-09-04T13:37:51.196
+Unexpected IOException with stream: i
+
+# Created on 2017-09-04T13:37:51.197
+Unexpected IOException with stream: v
+
+# Created on 2017-09-04T13:37:51.198
+Unexpected IOException with stream: e
+
+# Created on 2017-09-04T13:37:51.200
+Unexpected IOException with stream: r
+
+# Created on 2017-09-04T13:37:51.201
+Unexpected IOException with stream:  
+
+# Created on 2017-09-04T13:37:51.202
+Unexpected IOException with stream: 2
+
+# Created on 2017-09-04T13:37:51.203
+Unexpected IOException with stream: .
+
+# Created on 2017-09-04T13:37:51.204
+Unexpected IOException with stream: 2
+
+# Created on 2017-09-04T13:37:51.205
+Unexpected IOException with stream: 9
+
+# Created on 2017-09-04T13:37:51.206
+Unexpected IOException with stream: .
+
+# Created on 2017-09-04T13:37:51.207
+Unexpected IOException with stream: 4
+
+# Created on 2017-09-04T13:37:51.208
+Unexpected IOException with stream: 6
+
+# Created on 2017-09-04T13:37:51.209
+Unexpected IOException with stream: 1
+
+# Created on 2017-09-04T13:37:51.210
+Unexpected IOException with stream: 5
+
+# Created on 2017-09-04T13:37:51.211
+Unexpected IOException with stream: 9
+
+# Created on 2017-09-04T13:37:51.212
+Unexpected IOException with stream: 1
+
+# Created on 2017-09-04T13:37:51.213
+Unexpected IOException with stream:  
+
+# Created on 2017-09-04T13:37:51.214
+Unexpected IOException with stream: (
+
+# Created on 2017-09-04T13:37:51.216
+Unexpected IOException with stream: 6
+
+# Created on 2017-09-04T13:37:51.217
+Unexpected IOException with stream: 2
+
+# Created on 2017-09-04T13:37:51.218
+Unexpected IOException with stream: e
+
+# Created on 2017-09-04T13:37:51.220
+Unexpected IOException with stream: b
+
+# Created on 2017-09-04T13:37:51.221
+Unexpected IOException with stream: f
+
+# Created on 2017-09-04T13:37:51.222
+Unexpected IOException with stream: 0
+
+# Created on 2017-09-04T13:37:51.223
+Unexpected IOException with stream: 9
+
+# Created on 2017-09-04T13:37:51.225
+Unexpected IOException with stream: 8
+
+# Created on 2017-09-04T13:37:51.226
+Unexpected IOException with stream: 7
+
+# Created on 2017-09-04T13:37:51.227
+Unexpected IOException with stream: 7
+
+# Created on 2017-09-04T13:37:51.228
+Unexpected IOException with stream: 1
+
+# Created on 2017-09-04T13:37:51.229
+Unexpected IOException with stream: 7
+
+# Created on 2017-09-04T13:37:51.231
+Unexpected IOException with stream: 7
+
+# Created on 2017-09-04T13:37:51.232
+Unexpected IOException with stream: 2
+
+# Created on 2017-09-04T13:37:51.234
+Unexpected IOException with stream: 1
+
+# Created on 2017-09-04T13:37:51.235
+Unexpected IOException with stream: 6
+
+# Created on 2017-09-04T13:37:51.236
+Unexpected IOException with stream: 0
+
+# Created on 2017-09-04T13:37:51.237
+Unexpected IOException with stream: f
+
+# Created on 2017-09-04T13:37:51.238
+Unexpected IOException with stream: 3
+
+# Created on 2017-09-04T13:37:51.240
+Unexpected IOException with stream: 9
+
+# Created on 2017-09-04T13:37:51.241
+Unexpected IOException with stream: 1
+
+# Created on 2017-09-04T13:37:51.242
+Unexpected IOException with stream: d
+
+# Created on 2017-09-04T13:37:51.243
+Unexpected IOException with stream: 7
+
+# Created on 2017-09-04T13:37:51.244
+Unexpected IOException with stream: 5
+
+# Created on 2017-09-04T13:37:51.245
+Unexpected IOException with stream: e
+
+# Created on 2017-09-04T13:37:51.246
+Unexpected IOException with stream: 5
+
+# Created on 2017-09-04T13:37:51.248
+Unexpected IOException with stream: 8
+
+# Created on 2017-09-04T13:37:51.249
+Unexpected IOException with stream: 9
+
+# Created on 2017-09-04T13:37:51.251
+Unexpected IOException with stream: d
+
+# Created on 2017-09-04T13:37:51.252
+Unexpected IOException with stream: c
+
+# Created on 2017-09-04T13:37:51.253
+Unexpected IOException with stream: 5
+
+# Created on 2017-09-04T13:37:51.254
+Unexpected IOException with stream: 6
+
+# Created on 2017-09-04T13:37:51.255
+Unexpected IOException with stream: 7
+
+# Created on 2017-09-04T13:37:51.256
+Unexpected IOException with stream: 9
+
+# Created on 2017-09-04T13:37:51.257
+Unexpected IOException with stream: 1
+
+# Created on 2017-09-04T13:37:51.259
+Unexpected IOException with stream: 5
+
+# Created on 2017-09-04T13:37:51.261
+Unexpected IOException with stream: b
+
+# Created on 2017-09-04T13:37:51.262
+Unexpected IOException with stream: 2
+
+# Created on 2017-09-04T13:37:51.263
+Unexpected IOException with stream: 3
+
+# Created on 2017-09-04T13:37:51.264
+Unexpected IOException with stream: 3
+
+# Created on 2017-09-04T13:37:51.265
+Unexpected IOException with stream: )
+
+# Created on 2017-09-04T13:37:51.265
+Unexpected IOException with stream:  
+
+# Created on 2017-09-04T13:37:51.266
+Unexpected IOException with stream: o
+
+# Created on 2017-09-04T13:37:51.267
+Unexpected IOException with stream: n
+
+# Created on 2017-09-04T13:37:51.269
+Unexpected IOException with stream:  
+
+# Created on 2017-09-04T13:37:51.269
+Unexpected IOException with stream: p
+
+# Created on 2017-09-04T13:37:51.270
+Unexpected IOException with stream: o
+
+# Created on 2017-09-04T13:37:51.271
+Unexpected IOException with stream: r
+
+# Created on 2017-09-04T13:37:51.272
+Unexpected IOException with stream: t
+
+# Created on 2017-09-04T13:37:51.273
+Unexpected IOException with stream:  
+
+# Created on 2017-09-04T13:37:51.274
+Unexpected IOException with stream: 3
+
+# Created on 2017-09-04T13:37:51.275
+Unexpected IOException with stream: 8
+
+# Created on 2017-09-04T13:37:51.276
+Unexpected IOException with stream: 9
+
+# Created on 2017-09-04T13:37:51.277
+Unexpected IOException with stream: 5
+
+# Created on 2017-09-04T13:37:51.277
+Unexpected IOException with stream: 6
+
+# Created on 2017-09-04T13:37:51.278
+Unexpected IOException with stream: 
+
+# Created on 2017-09-04T13:37:51.279
+Unexpected IOException with stream: 
+
+
+# Created on 2017-09-04T13:37:51.280
+Unexpected IOException with stream: O
+
+# Created on 2017-09-04T13:37:51.281
+Unexpected IOException with stream: n
+
+# Created on 2017-09-04T13:37:51.281
+Unexpected IOException with stream: l
+
+# Created on 2017-09-04T13:37:51.282
+Unexpected IOException with stream: y
+
+# Created on 2017-09-04T13:37:51.283
+Unexpected IOException with stream:  
+
+# Created on 2017-09-04T13:37:51.284
+Unexpected IOException with stream: l
+
+# Created on 2017-09-04T13:37:51.285
+Unexpected IOException with stream: o
+
+# Created on 2017-09-04T13:37:51.286
+Unexpected IOException with stream: c
+
+# Created on 2017-09-04T13:37:51.287
+Unexpected IOException with stream: a
+
+# Created on 2017-09-04T13:37:51.288
+Unexpected IOException with stream: l
+
+# Created on 2017-09-04T13:37:51.290
+Unexpected IOException with stream:  
+
+# Created on 2017-09-04T13:37:51.291
+Unexpected IOException with stream: c
+
+# Created on 2017-09-04T13:37:51.292
+Unexpected IOException with stream: o
+
+# Created on 2017-09-04T13:37:51.293
+Unexpected IOException with stream: n
+
+# Created on 2017-09-04T13:37:51.295
+Unexpected IOException with stream: n
+
+# Created on 2017-09-04T13:37:51.297
+Unexpected IOException with stream: e
+
+# Created on 2017-09-04T13:37:51.298
+Unexpected IOException with stream: c
+
+# Created on 2017-09-04T13:37:51.300
+Unexpected IOException with stream: t
+
+# Created on 2017-09-04T13:37:51.301
+Unexpected IOException with stream: i
+
+# Created on 2017-09-04T13:37:51.303
+Unexpected IOException with stream: o
+
+# Created on 2017-09-04T13:37:51.304
+Unexpected IOException with stream: n
+
+# Created on 2017-09-04T13:37:51.305
+Unexpected IOException with stream: s
+
+# Created on 2017-09-04T13:37:51.306
+Unexpected IOException with stream:  
+
+# Created on 2017-09-04T13:37:51.307
+Unexpected IOException with stream: a
+
+# Created on 2017-09-04T13:37:51.308
+Unexpected IOException with stream: r
+
+# Created on 2017-09-04T13:37:51.309
+Unexpected IOException with stream: e
+
+# Created on 2017-09-04T13:37:51.310
+Unexpected IOException with stream:  
+
+# Created on 2017-09-04T13:37:51.312
+Unexpected IOException with stream: a
+
+# Created on 2017-09-04T13:37:51.313
+Unexpected IOException with stream: l
+
+# Created on 2017-09-04T13:37:51.314
+Unexpected IOException with stream: l
+
+# Created on 2017-09-04T13:37:51.315
+Unexpected IOException with stream: o
+
+# Created on 2017-09-04T13:37:51.316
+Unexpected IOException with stream: w
+
+# Created on 2017-09-04T13:37:51.317
+Unexpected IOException with stream: e
+
+# Created on 2017-09-04T13:37:51.318
+Unexpected IOException with stream: d
+
+# Created on 2017-09-04T13:37:51.320
+Unexpected IOException with stream: .
+
+# Created on 2017-09-04T13:37:51.321
+Unexpected IOException with stream: 
+
+# Created on 2017-09-04T13:37:51.322
+Unexpected IOException with stream: 
+
+
+# Created on 2017-09-04T13:37:51.814
+Unexpected IOException with stream: Sep 04, 2017 1:37:51 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Attempting bi-dialect session, assuming Postel's Law holds true on the remote end
+
+
+# Created on 2017-09-04T13:37:53.910
+Unexpected IOException with stream: Sep 04, 2017 1:37:53 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+
+
+# Created on 2017-09-04T13:37:58.054
+Unexpected IOException: 8,1,commonMethods.Testcases,getDataFromConfig(commonMethods.Testcases),null,unknown error: cannot get automation extension\000Afrom chrome not reachable\000A  (Session info: chrome=60.0.3112.113)\000A  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002Cplatform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 4.07 seconds\000ABuild info: version: '3.0.1'\002C revision: '1969d75'\002C time: '2016-10-18 09:49:13 -0700'\000ASystem info: host: 'Lenovo-PC'\002C ip: '192.175.3.237'\002C os.name: 'Windows 8.1'\002C os.arch: 'amd64'\002C os.version: '6.3'\002C java.version: '1.8.0_131'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities [{applicationCacheEnabled=false\002C rotatable=false\002C mobileEmulationEnabled=false\002C networkConnectionEnabled=false\002C chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002C userDataDir=C:\005CUsers\005CTOOKIT~1\005CAppData\005CLocal\005CTemp\005Cscoped_dir8056_1087}\002C takesHeapSnapshot=true\002C pageLoadStrategy=normal\002C databaseEnabled=false\002C handlesAlerts=true\002C hasTouchScreen=false\002C version=60.0.3112.113\002C platform=WIN8_1\002C browserConnectionEnabled=false\002C nativeEvents=true\002C acceptSslCerts=true\002C locationContextEnabled=true\002C webStorageEnabled=true\002C browserName=chrome\002C takesScreenshot=true\002C javascriptEnabled=true\002C cssSelectorsEnabled=true\002C unexpectedAlertBehaviour=}]\000ASession ID: 7ca74cb593ee46ff823186991823beb4,null,unknown error: cannot get automation extension\000Afrom chrome not reachable\000A  (Session info: chrome=60.0.3112.113)\000A  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002Cplatform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 4.07 seconds\000ABuild info: version: '3.0.1'\002C revision: '1969d75'\002C time: '2016-10-18 09:49:13 -0700'\000ASystem info: host: 'Lenovo-PC'\002C ip: '192.175.3.237'\002C os.name: 'Windows 8.1'\002C os.arch: 'amd64'\002C os.version: '6.3'\002C java.version: '1.8.0_131'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities [{applicationCacheEnabled=false\002C rotatable=false\002C mobileEmulationEnabled=false\002C networkConnectionEnabled=false\002C chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002C userDataDir=C:\005CUsers\005CTOOKIT~1\005CAppData\005CLocal\005CTemp\005Cscoped_dir8056_1087}\002C takesHeapSnapshot=true\002C pageLoadStrategy=normal\002C databaseEnabled=false\002C handlesAlerts=true\002C hasTouchScreen=false\002C version=60.0.3112.113\002C platform=WIN8_1\002C browserConnectionEnabled=false\002C nativeEvents=true\002C acceptSslCerts=true\002C locationContextEnabled=true\002C webStorageEnabled=true\002C browserName=chrome\002C takesScreenshot=true\002C javascriptEnabled=true\002C cssSelectorsEnabled=true\002C unexpectedAlertBehaviour=}]\000ASession ID: 7ca74cb593ee46ff823186991823beb4,Testcases.getDataFromConfig:89 \00BB WebDriver unknown error: cannot get automatio...,org.openqa.selenium.WebDriverException: \000Aunknown error: cannot get automation extension\000Afrom chrome not reachable\000A  (Session info: chrome=60.0.3112.113)\000A  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002Cplatform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 4.07 seconds\000ABuild info: version: '3.0.1'\002C revision: '1969d75'\002C time: '2016-10-18 09:49:13 -0700'\000ASystem info: host: 'Lenovo-PC'\002C ip: '192.175.3.237'\002C os.name: 'Windows 8.1'\002C os.arch: 'amd64'\002C os.version: '6.3'\002C java.version: '1.8.0_131'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities [{applicationCacheEnabled=false\002C rotatable=false\002C mobileEmulationEnabled=false\002C networkConnectionEnabled=false\002C chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002C userDataDir=C:\005CUsers\005CTOOKIT~1\005CAppData\005CLocal\005CTemp\005Cscoped_dir8056_1087}\002C takesHeapSnapshot=true\002C pageLoadStrategy=normal\002C databaseEnabled=false\002C handlesAlerts=true\002C hasTouchScreen=false\002C version=60.0.3112.113\002C platform=WIN8_1\002C browserConnectionEnabled=false\002C nativeEvents=true\002C acceptSslCerts=true\002C locationContextEnabled=true\002C webStorageEnabled=true\002C browserName=chrome\002C takesScreenshot=true\002C javascriptEnabled=true\002C cssSelectorsEnabled=true\002C unexpectedAlertBehaviour=}]\000ASession ID: 7ca74cb593ee46ff823186991823beb4\000A\0009at commonMethods.Testcases.getDataFromConfig(Testcases.java:89)\000A
+
+
+# Created on 2017-09-04T13:37:58.073
+Unexpected IOException: 9,1,commonMethods.Testcases,login(commonMethods.Testcases),null,unknown error: cannot get automation extension\000Afrom chrome not reachable\000A  (Session info: chrome=60.0.3112.113)\000A  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002Cplatform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 4.07 seconds\000ABuild info: version: '3.0.1'\002C revision: '1969d75'\002C time: '2016-10-18 09:49:13 -0700'\000ASystem info: host: 'Lenovo-PC'\002C ip: '192.175.3.237'\002C os.name: 'Windows 8.1'\002C os.arch: 'amd64'\002C os.version: '6.3'\002C java.version: '1.8.0_131'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities [{applicationCacheEnabled=false\002C rotatable=false\002C mobileEmulationEnabled=false\002C networkConnectionEnabled=false\002C chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002C userDataDir=C:\005CUsers\005CTOOKIT~1\005CAppData\005CLocal\005CTemp\005Cscoped_dir8056_1087}\002C takesHeapSnapshot=true\002C pageLoadStrategy=normal\002C databaseEnabled=false\002C handlesAlerts=true\002C hasTouchScreen=false\002C version=60.0.3112.113\002C platform=WIN8_1\002C browserConnectionEnabled=false\002C nativeEvents=true\002C acceptSslCerts=true\002C locationContextEnabled=true\002C webStorageEnabled=true\002C browserName=chrome\002C takesScreenshot=true\002C javascriptEnabled=true\002C cssSelectorsEnabled=true\002C unexpectedAlertBehaviour=}]\000ASession ID: 7ca74cb593ee46ff823186991823beb4,null
+
+
+# Created on 2017-09-04T13:37:58.078
+Unexpected IOException: 9,1,commonMethods.Testcases,cluster(commonMethods.Testcases),null,unknown error: cannot get automation extension\000Afrom chrome not reachable\000A  (Session info: chrome=60.0.3112.113)\000A  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002Cplatform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 4.07 seconds\000ABuild info: version: '3.0.1'\002C revision: '1969d75'\002C time: '2016-10-18 09:49:13 -0700'\000ASystem info: host: 'Lenovo-PC'\002C ip: '192.175.3.237'\002C os.name: 'Windows 8.1'\002C os.arch: 'amd64'\002C os.version: '6.3'\002C java.version: '1.8.0_131'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities [{applicationCacheEnabled=false\002C rotatable=false\002C mobileEmulationEnabled=false\002C networkConnectionEnabled=false\002C chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002C userDataDir=C:\005CUsers\005CTOOKIT~1\005CAppData\005CLocal\005CTemp\005Cscoped_dir8056_1087}\002C takesHeapSnapshot=true\002C pageLoadStrategy=normal\002C databaseEnabled=false\002C handlesAlerts=true\002C hasTouchScreen=false\002C version=60.0.3112.113\002C platform=WIN8_1\002C browserConnectionEnabled=false\002C nativeEvents=true\002C acceptSslCerts=true\002C locationContextEnabled=true\002C webStorageEnabled=true\002C browserName=chrome\002C takesScreenshot=true\002C javascriptEnabled=true\002C cssSelectorsEnabled=true\002C unexpectedAlertBehaviour=}]\000ASession ID: 7ca74cb593ee46ff823186991823beb4,null
+
+
+# Created on 2017-09-04T13:37:58.081
+Unexpected IOException: 9,1,commonMethods.Testcases,explore(commonMethods.Testcases),null,unknown error: cannot get automation extension\000Afrom chrome not reachable\000A  (Session info: chrome=60.0.3112.113)\000A  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002Cplatform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 4.07 seconds\000ABuild info: version: '3.0.1'\002C revision: '1969d75'\002C time: '2016-10-18 09:49:13 -0700'\000ASystem info: host: 'Lenovo-PC'\002C ip: '192.175.3.237'\002C os.name: 'Windows 8.1'\002C os.arch: 'amd64'\002C os.version: '6.3'\002C java.version: '1.8.0_131'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities [{applicationCacheEnabled=false\002C rotatable=false\002C mobileEmulationEnabled=false\002C networkConnectionEnabled=false\002C chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002C userDataDir=C:\005CUsers\005CTOOKIT~1\005CAppData\005CLocal\005CTemp\005Cscoped_dir8056_1087}\002C takesHeapSnapshot=true\002C pageLoadStrategy=normal\002C databaseEnabled=false\002C handlesAlerts=true\002C hasTouchScreen=false\002C version=60.0.3112.113\002C platform=WIN8_1\002C browserConnectionEnabled=false\002C nativeEvents=true\002C acceptSslCerts=true\002C locationContextEnabled=true\002C webStorageEnabled=true\002C browserName=chrome\002C takesScreenshot=true\002C javascriptEnabled=true\002C cssSelectorsEnabled=true\002C unexpectedAlertBehaviour=}]\000ASession ID: 7ca74cb593ee46ff823186991823beb4,null
+
+
+# Created on 2017-09-04T13:37:58.085
+Unexpected IOException: 9,1,commonMethods.Testcases,amlTransformEncode(commonMethods.Testcases),null,unknown error: cannot get automation extension\000Afrom chrome not reachable\000A  (Session info: chrome=60.0.3112.113)\000A  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002Cplatform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 4.07 seconds\000ABuild info: version: '3.0.1'\002C revision: '1969d75'\002C time: '2016-10-18 09:49:13 -0700'\000ASystem info: host: 'Lenovo-PC'\002C ip: '192.175.3.237'\002C os.name: 'Windows 8.1'\002C os.arch: 'amd64'\002C os.version: '6.3'\002C java.version: '1.8.0_131'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities [{applicationCacheEnabled=false\002C rotatable=false\002C mobileEmulationEnabled=false\002C networkConnectionEnabled=false\002C chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002C userDataDir=C:\005CUsers\005CTOOKIT~1\005CAppData\005CLocal\005CTemp\005Cscoped_dir8056_1087}\002C takesHeapSnapshot=true\002C pageLoadStrategy=normal\002C databaseEnabled=false\002C handlesAlerts=true\002C hasTouchScreen=false\002C version=60.0.3112.113\002C platform=WIN8_1\002C browserConnectionEnabled=false\002C nativeEvents=true\002C acceptSslCerts=true\002C locationContextEnabled=true\002C webStorageEnabled=true\002C browserName=chrome\002C takesScreenshot=true\002C javascriptEnabled=true\002C cssSelectorsEnabled=true\002C unexpectedAlertBehaviour=}]\000ASession ID: 7ca74cb593ee46ff823186991823beb4,null
+
+
+# Created on 2017-09-04T13:37:58.089
+Unexpected IOException: 9,1,commonMethods.Testcases,amlTransformJoin(commonMethods.Testcases),null,unknown error: cannot get automation extension\000Afrom chrome not reachable\000A  (Session info: chrome=60.0.3112.113)\000A  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002Cplatform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 4.07 seconds\000ABuild info: version: '3.0.1'\002C revision: '1969d75'\002C time: '2016-10-18 09:49:13 -0700'\000ASystem info: host: 'Lenovo-PC'\002C ip: '192.175.3.237'\002C os.name: 'Windows 8.1'\002C os.arch: 'amd64'\002C os.version: '6.3'\002C java.version: '1.8.0_131'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities [{applicationCacheEnabled=false\002C rotatable=false\002C mobileEmulationEnabled=false\002C networkConnectionEnabled=false\002C chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002C userDataDir=C:\005CUsers\005CTOOKIT~1\005CAppData\005CLocal\005CTemp\005Cscoped_dir8056_1087}\002C takesHeapSnapshot=true\002C pageLoadStrategy=normal\002C databaseEnabled=false\002C handlesAlerts=true\002C hasTouchScreen=false\002C version=60.0.3112.113\002C platform=WIN8_1\002C browserConnectionEnabled=false\002C nativeEvents=true\002C acceptSslCerts=true\002C locationContextEnabled=true\002C webStorageEnabled=true\002C browserName=chrome\002C takesScreenshot=true\002C javascriptEnabled=true\002C cssSelectorsEnabled=true\002C unexpectedAlertBehaviour=}]\000ASession ID: 7ca74cb593ee46ff823186991823beb4,null
+
+
+# Created on 2017-09-04T13:37:58.092
+Unexpected IOException: 9,1,commonMethods.Testcases,amlFilterPredection1(commonMethods.Testcases),null,unknown error: cannot get automation extension\000Afrom chrome not reachable\000A  (Session info: chrome=60.0.3112.113)\000A  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002Cplatform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 4.07 seconds\000ABuild info: version: '3.0.1'\002C revision: '1969d75'\002C time: '2016-10-18 09:49:13 -0700'\000ASystem info: host: 'Lenovo-PC'\002C ip: '192.175.3.237'\002C os.name: 'Windows 8.1'\002C os.arch: 'amd64'\002C os.version: '6.3'\002C java.version: '1.8.0_131'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities [{applicationCacheEnabled=false\002C rotatable=false\002C mobileEmulationEnabled=false\002C networkConnectionEnabled=false\002C chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002C userDataDir=C:\005CUsers\005CTOOKIT~1\005CAppData\005CLocal\005CTemp\005Cscoped_dir8056_1087}\002C takesHeapSnapshot=true\002C pageLoadStrategy=normal\002C databaseEnabled=false\002C handlesAlerts=true\002C hasTouchScreen=false\002C version=60.0.3112.113\002C platform=WIN8_1\002C browserConnectionEnabled=false\002C nativeEvents=true\002C acceptSslCerts=true\002C locationContextEnabled=true\002C webStorageEnabled=true\002C browserName=chrome\002C takesScreenshot=true\002C javascriptEnabled=true\002C cssSelectorsEnabled=true\002C unexpectedAlertBehaviour=}]\000ASession ID: 7ca74cb593ee46ff823186991823beb4,null
+
+
+# Created on 2017-09-04T13:37:58.095
+Unexpected IOException: 9,1,commonMethods.Testcases,amlFilterPredection2(commonMethods.Testcases),null,unknown error: cannot get automation extension\000Afrom chrome not reachable\000A  (Session info: chrome=60.0.3112.113)\000A  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002Cplatform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 4.07 seconds\000ABuild info: version: '3.0.1'\002C revision: '1969d75'\002C time: '2016-10-18 09:49:13 -0700'\000ASystem info: host: 'Lenovo-PC'\002C ip: '192.175.3.237'\002C os.name: 'Windows 8.1'\002C os.arch: 'amd64'\002C os.version: '6.3'\002C java.version: '1.8.0_131'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities [{applicationCacheEnabled=false\002C rotatable=false\002C mobileEmulationEnabled=false\002C networkConnectionEnabled=false\002C chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002C userDataDir=C:\005CUsers\005CTOOKIT~1\005CAppData\005CLocal\005CTemp\005Cscoped_dir8056_1087}\002C takesHeapSnapshot=true\002C pageLoadStrategy=normal\002C databaseEnabled=false\002C handlesAlerts=true\002C hasTouchScreen=false\002C version=60.0.3112.113\002C platform=WIN8_1\002C browserConnectionEnabled=false\002C nativeEvents=true\002C acceptSslCerts=true\002C locationContextEnabled=true\002C webStorageEnabled=true\002C browserName=chrome\002C takesScreenshot=true\002C javascriptEnabled=true\002C cssSelectorsEnabled=true\002C unexpectedAlertBehaviour=}]\000ASession ID: 7ca74cb593ee46ff823186991823beb4,null
+
+
+# Created on 2017-09-04T13:37:58.098
+Unexpected IOException: 9,1,commonMethods.Testcases,amlFilterPredection3(commonMethods.Testcases),null,unknown error: cannot get automation extension\000Afrom chrome not reachable\000A  (Session info: chrome=60.0.3112.113)\000A  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002Cplatform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 4.07 seconds\000ABuild info: version: '3.0.1'\002C revision: '1969d75'\002C time: '2016-10-18 09:49:13 -0700'\000ASystem info: host: 'Lenovo-PC'\002C ip: '192.175.3.237'\002C os.name: 'Windows 8.1'\002C os.arch: 'amd64'\002C os.version: '6.3'\002C java.version: '1.8.0_131'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities [{applicationCacheEnabled=false\002C rotatable=false\002C mobileEmulationEnabled=false\002C networkConnectionEnabled=false\002C chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002C userDataDir=C:\005CUsers\005CTOOKIT~1\005CAppData\005CLocal\005CTemp\005Cscoped_dir8056_1087}\002C takesHeapSnapshot=true\002C pageLoadStrategy=normal\002C databaseEnabled=false\002C handlesAlerts=true\002C hasTouchScreen=false\002C version=60.0.3112.113\002C platform=WIN8_1\002C browserConnectionEnabled=false\002C nativeEvents=true\002C acceptSslCerts=true\002C locationContextEnabled=true\002C webStorageEnabled=true\002C browserName=chrome\002C takesScreenshot=true\002C javascriptEnabled=true\002C cssSelectorsEnabled=true\002C unexpectedAlertBehaviour=}]\000ASession ID: 7ca74cb593ee46ff823186991823beb4,null
+
+
+# Created on 2017-09-04T13:37:58.102
+Unexpected IOException: 9,1,commonMethods.Testcases,amlFilterPredection4(commonMethods.Testcases),null,unknown error: cannot get automation extension\000Afrom chrome not reachable\000A  (Session info: chrome=60.0.3112.113)\000A  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002Cplatform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 4.07 seconds\000ABuild info: version: '3.0.1'\002C revision: '1969d75'\002C time: '2016-10-18 09:49:13 -0700'\000ASystem info: host: 'Lenovo-PC'\002C ip: '192.175.3.237'\002C os.name: 'Windows 8.1'\002C os.arch: 'amd64'\002C os.version: '6.3'\002C java.version: '1.8.0_131'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities [{applicationCacheEnabled=false\002C rotatable=false\002C mobileEmulationEnabled=false\002C networkConnectionEnabled=false\002C chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002C userDataDir=C:\005CUsers\005CTOOKIT~1\005CAppData\005CLocal\005CTemp\005Cscoped_dir8056_1087}\002C takesHeapSnapshot=true\002C pageLoadStrategy=normal\002C databaseEnabled=false\002C handlesAlerts=true\002C hasTouchScreen=false\002C version=60.0.3112.113\002C platform=WIN8_1\002C browserConnectionEnabled=false\002C nativeEvents=true\002C acceptSslCerts=true\002C locationContextEnabled=true\002C webStorageEnabled=true\002C browserName=chrome\002C takesScreenshot=true\002C javascriptEnabled=true\002C cssSelectorsEnabled=true\002C unexpectedAlertBehaviour=}]\000ASession ID: 7ca74cb593ee46ff823186991823beb4,null
+
+
+# Created on 2017-09-04T13:37:58.105
+Unexpected IOException: 9,1,commonMethods.Testcases,amlFilterPredection5(commonMethods.Testcases),null,unknown error: cannot get automation extension\000Afrom chrome not reachable\000A  (Session info: chrome=60.0.3112.113)\000A  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002Cplatform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 4.07 seconds\000ABuild info: version: '3.0.1'\002C revision: '1969d75'\002C time: '2016-10-18 09:49:13 -0700'\000ASystem info: host: 'Lenovo-PC'\002C ip: '192.175.3.237'\002C os.name: 'Windows 8.1'\002C os.arch: 'amd64'\002C os.version: '6.3'\002C java.version: '1.8.0_131'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities [{applicationCacheEnabled=false\002C rotatable=false\002C mobileEmulationEnabled=false\002C networkConnectionEnabled=false\002C chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002C userDataDir=C:\005CUsers\005CTOOKIT~1\005CAppData\005CLocal\005CTemp\005Cscoped_dir8056_1087}\002C takesHeapSnapshot=true\002C pageLoadStrategy=normal\002C databaseEnabled=false\002C handlesAlerts=true\002C hasTouchScreen=false\002C version=60.0.3112.113\002C platform=WIN8_1\002C browserConnectionEnabled=false\002C nativeEvents=true\002C acceptSslCerts=true\002C locationContextEnabled=true\002C webStorageEnabled=true\002C browserName=chrome\002C takesScreenshot=true\002C javascriptEnabled=true\002C cssSelectorsEnabled=true\002C unexpectedAlertBehaviour=}]\000ASession ID: 7ca74cb593ee46ff823186991823beb4,null
+
+
+# Created on 2017-09-04T13:37:58.108
+Unexpected IOException: 9,1,commonMethods.Testcases,amlBalance_With_Fraction1(commonMethods.Testcases),null,unknown error: cannot get automation extension\000Afrom chrome not reachable\000A  (Session info: chrome=60.0.3112.113)\000A  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002Cplatform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 4.07 seconds\000ABuild info: version: '3.0.1'\002C revision: '1969d75'\002C time: '2016-10-18 09:49:13 -0700'\000ASystem info: host: 'Lenovo-PC'\002C ip: '192.175.3.237'\002C os.name: 'Windows 8.1'\002C os.arch: 'amd64'\002C os.version: '6.3'\002C java.version: '1.8.0_131'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities [{applicationCacheEnabled=false\002C rotatable=false\002C mobileEmulationEnabled=false\002C networkConnectionEnabled=false\002C chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002C userDataDir=C:\005CUsers\005CTOOKIT~1\005CAppData\005CLocal\005CTemp\005Cscoped_dir8056_1087}\002C takesHeapSnapshot=true\002C pageLoadStrategy=normal\002C databaseEnabled=false\002C handlesAlerts=true\002C hasTouchScreen=false\002C version=60.0.3112.113\002C platform=WIN8_1\002C browserConnectionEnabled=false\002C nativeEvents=true\002C acceptSslCerts=true\002C locationContextEnabled=true\002C webStorageEnabled=true\002C browserName=chrome\002C takesScreenshot=true\002C javascriptEnabled=true\002C cssSelectorsEnabled=true\002C unexpectedAlertBehaviour=}]\000ASession ID: 7ca74cb593ee46ff823186991823beb4,null
+
+
+# Created on 2017-09-04T13:37:58.112
+Unexpected IOException: 9,1,commonMethods.Testcases,amlBalance_With_Fraction2(commonMethods.Testcases),null,unknown error: cannot get automation extension\000Afrom chrome not reachable\000A  (Session info: chrome=60.0.3112.113)\000A  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002Cplatform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 4.07 seconds\000ABuild info: version: '3.0.1'\002C revision: '1969d75'\002C time: '2016-10-18 09:49:13 -0700'\000ASystem info: host: 'Lenovo-PC'\002C ip: '192.175.3.237'\002C os.name: 'Windows 8.1'\002C os.arch: 'amd64'\002C os.version: '6.3'\002C java.version: '1.8.0_131'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities [{applicationCacheEnabled=false\002C rotatable=false\002C mobileEmulationEnabled=false\002C networkConnectionEnabled=false\002C chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002C userDataDir=C:\005CUsers\005CTOOKIT~1\005CAppData\005CLocal\005CTemp\005Cscoped_dir8056_1087}\002C takesHeapSnapshot=true\002C pageLoadStrategy=normal\002C databaseEnabled=false\002C handlesAlerts=true\002C hasTouchScreen=false\002C version=60.0.3112.113\002C platform=WIN8_1\002C browserConnectionEnabled=false\002C nativeEvents=true\002C acceptSslCerts=true\002C locationContextEnabled=true\002C webStorageEnabled=true\002C browserName=chrome\002C takesScreenshot=true\002C javascriptEnabled=true\002C cssSelectorsEnabled=true\002C unexpectedAlertBehaviour=}]\000ASession ID: 7ca74cb593ee46ff823186991823beb4,null
+
+
+# Created on 2017-09-04T13:37:58.116
+Unexpected IOException: 9,1,commonMethods.Testcases,amlBalance_With_Fraction3(commonMethods.Testcases),null,unknown error: cannot get automation extension\000Afrom chrome not reachable\000A  (Session info: chrome=60.0.3112.113)\000A  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002Cplatform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 4.07 seconds\000ABuild info: version: '3.0.1'\002C revision: '1969d75'\002C time: '2016-10-18 09:49:13 -0700'\000ASystem info: host: 'Lenovo-PC'\002C ip: '192.175.3.237'\002C os.name: 'Windows 8.1'\002C os.arch: 'amd64'\002C os.version: '6.3'\002C java.version: '1.8.0_131'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities [{applicationCacheEnabled=false\002C rotatable=false\002C mobileEmulationEnabled=false\002C networkConnectionEnabled=false\002C chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002C userDataDir=C:\005CUsers\005CTOOKIT~1\005CAppData\005CLocal\005CTemp\005Cscoped_dir8056_1087}\002C takesHeapSnapshot=true\002C pageLoadStrategy=normal\002C databaseEnabled=false\002C handlesAlerts=true\002C hasTouchScreen=false\002C version=60.0.3112.113\002C platform=WIN8_1\002C browserConnectionEnabled=false\002C nativeEvents=true\002C acceptSslCerts=true\002C locationContextEnabled=true\002C webStorageEnabled=true\002C browserName=chrome\002C takesScreenshot=true\002C javascriptEnabled=true\002C cssSelectorsEnabled=true\002C unexpectedAlertBehaviour=}]\000ASession ID: 7ca74cb593ee46ff823186991823beb4,null
+
+
+# Created on 2017-09-04T13:37:58.119
+Unexpected IOException: 9,1,commonMethods.Testcases,amlBalance_With_Fraction4(commonMethods.Testcases),null,unknown error: cannot get automation extension\000Afrom chrome not reachable\000A  (Session info: chrome=60.0.3112.113)\000A  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002Cplatform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 4.07 seconds\000ABuild info: version: '3.0.1'\002C revision: '1969d75'\002C time: '2016-10-18 09:49:13 -0700'\000ASystem info: host: 'Lenovo-PC'\002C ip: '192.175.3.237'\002C os.name: 'Windows 8.1'\002C os.arch: 'amd64'\002C os.version: '6.3'\002C java.version: '1.8.0_131'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities [{applicationCacheEnabled=false\002C rotatable=false\002C mobileEmulationEnabled=false\002C networkConnectionEnabled=false\002C chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002C userDataDir=C:\005CUsers\005CTOOKIT~1\005CAppData\005CLocal\005CTemp\005Cscoped_dir8056_1087}\002C takesHeapSnapshot=true\002C pageLoadStrategy=normal\002C databaseEnabled=false\002C handlesAlerts=true\002C hasTouchScreen=false\002C version=60.0.3112.113\002C platform=WIN8_1\002C browserConnectionEnabled=false\002C nativeEvents=true\002C acceptSslCerts=true\002C locationContextEnabled=true\002C webStorageEnabled=true\002C browserName=chrome\002C takesScreenshot=true\002C javascriptEnabled=true\002C cssSelectorsEnabled=true\002C unexpectedAlertBehaviour=}]\000ASession ID: 7ca74cb593ee46ff823186991823beb4,null
+
+
+# Created on 2017-09-04T13:37:58.124
+Unexpected IOException: 9,1,commonMethods.Testcases,amlN_Union1(commonMethods.Testcases),null,unknown error: cannot get automation extension\000Afrom chrome not reachable\000A  (Session info: chrome=60.0.3112.113)\000A  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002Cplatform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 4.07 seconds\000ABuild info: version: '3.0.1'\002C revision: '1969d75'\002C time: '2016-10-18 09:49:13 -0700'\000ASystem info: host: 'Lenovo-PC'\002C ip: '192.175.3.237'\002C os.name: 'Windows 8.1'\002C os.arch: 'amd64'\002C os.version: '6.3'\002C java.version: '1.8.0_131'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities [{applicationCacheEnabled=false\002C rotatable=false\002C mobileEmulationEnabled=false\002C networkConnectionEnabled=false\002C chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002C userDataDir=C:\005CUsers\005CTOOKIT~1\005CAppData\005CLocal\005CTemp\005Cscoped_dir8056_1087}\002C takesHeapSnapshot=true\002C pageLoadStrategy=normal\002C databaseEnabled=false\002C handlesAlerts=true\002C hasTouchScreen=false\002C version=60.0.3112.113\002C platform=WIN8_1\002C browserConnectionEnabled=false\002C nativeEvents=true\002C acceptSslCerts=true\002C locationContextEnabled=true\002C webStorageEnabled=true\002C browserName=chrome\002C takesScreenshot=true\002C javascriptEnabled=true\002C cssSelectorsEnabled=true\002C unexpectedAlertBehaviour=}]\000ASession ID: 7ca74cb593ee46ff823186991823beb4,null
+
+
+# Created on 2017-09-04T13:37:58.127
+Unexpected IOException: 9,1,commonMethods.Testcases,amlN_Union2(commonMethods.Testcases),null,unknown error: cannot get automation extension\000Afrom chrome not reachable\000A  (Session info: chrome=60.0.3112.113)\000A  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002Cplatform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 4.07 seconds\000ABuild info: version: '3.0.1'\002C revision: '1969d75'\002C time: '2016-10-18 09:49:13 -0700'\000ASystem info: host: 'Lenovo-PC'\002C ip: '192.175.3.237'\002C os.name: 'Windows 8.1'\002C os.arch: 'amd64'\002C os.version: '6.3'\002C java.version: '1.8.0_131'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities [{applicationCacheEnabled=false\002C rotatable=false\002C mobileEmulationEnabled=false\002C networkConnectionEnabled=false\002C chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002C userDataDir=C:\005CUsers\005CTOOKIT~1\005CAppData\005CLocal\005CTemp\005Cscoped_dir8056_1087}\002C takesHeapSnapshot=true\002C pageLoadStrategy=normal\002C databaseEnabled=false\002C handlesAlerts=true\002C hasTouchScreen=false\002C version=60.0.3112.113\002C platform=WIN8_1\002C browserConnectionEnabled=false\002C nativeEvents=true\002C acceptSslCerts=true\002C locationContextEnabled=true\002C webStorageEnabled=true\002C browserName=chrome\002C takesScreenshot=true\002C javascriptEnabled=true\002C cssSelectorsEnabled=true\002C unexpectedAlertBehaviour=}]\000ASession ID: 7ca74cb593ee46ff823186991823beb4,null
+
+
+# Created on 2017-09-04T13:37:58.131
+Unexpected IOException: 9,1,commonMethods.Testcases,amlN_Union3(commonMethods.Testcases),null,unknown error: cannot get automation extension\000Afrom chrome not reachable\000A  (Session info: chrome=60.0.3112.113)\000A  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002Cplatform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 4.07 seconds\000ABuild info: version: '3.0.1'\002C revision: '1969d75'\002C time: '2016-10-18 09:49:13 -0700'\000ASystem info: host: 'Lenovo-PC'\002C ip: '192.175.3.237'\002C os.name: 'Windows 8.1'\002C os.arch: 'amd64'\002C os.version: '6.3'\002C java.version: '1.8.0_131'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities [{applicationCacheEnabled=false\002C rotatable=false\002C mobileEmulationEnabled=false\002C networkConnectionEnabled=false\002C chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002C userDataDir=C:\005CUsers\005CTOOKIT~1\005CAppData\005CLocal\005CTemp\005Cscoped_dir8056_1087}\002C takesHeapSnapshot=true\002C pageLoadStrategy=normal\002C databaseEnabled=false\002C handlesAlerts=true\002C hasTouchScreen=false\002C version=60.0.3112.113\002C platform=WIN8_1\002C browserConnectionEnabled=false\002C nativeEvents=true\002C acceptSslCerts=true\002C locationContextEnabled=true\002C webStorageEnabled=true\002C browserName=chrome\002C takesScreenshot=true\002C javascriptEnabled=true\002C cssSelectorsEnabled=true\002C unexpectedAlertBehaviour=}]\000ASession ID: 7ca74cb593ee46ff823186991823beb4,null
+
+
+# Created on 2017-09-04T13:37:58.135
+Unexpected IOException: 9,1,commonMethods.Testcases,amlTransformationProject(commonMethods.Testcases),null,unknown error: cannot get automation extension\000Afrom chrome not reachable\000A  (Session info: chrome=60.0.3112.113)\000A  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002Cplatform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 4.07 seconds\000ABuild info: version: '3.0.1'\002C revision: '1969d75'\002C time: '2016-10-18 09:49:13 -0700'\000ASystem info: host: 'Lenovo-PC'\002C ip: '192.175.3.237'\002C os.name: 'Windows 8.1'\002C os.arch: 'amd64'\002C os.version: '6.3'\002C java.version: '1.8.0_131'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities [{applicationCacheEnabled=false\002C rotatable=false\002C mobileEmulationEnabled=false\002C networkConnectionEnabled=false\002C chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002C userDataDir=C:\005CUsers\005CTOOKIT~1\005CAppData\005CLocal\005CTemp\005Cscoped_dir8056_1087}\002C takesHeapSnapshot=true\002C pageLoadStrategy=normal\002C databaseEnabled=false\002C handlesAlerts=true\002C hasTouchScreen=false\002C version=60.0.3112.113\002C platform=WIN8_1\002C browserConnectionEnabled=false\002C nativeEvents=true\002C acceptSslCerts=true\002C locationContextEnabled=true\002C webStorageEnabled=true\002C browserName=chrome\002C takesScreenshot=true\002C javascriptEnabled=true\002C cssSelectorsEnabled=true\002C unexpectedAlertBehaviour=}]\000ASession ID: 7ca74cb593ee46ff823186991823beb4,null
+
+
+# Created on 2017-09-04T13:37:58.138
+Unexpected IOException: 9,1,commonMethods.Testcases,rblTransformationProject(commonMethods.Testcases),null,unknown error: cannot get automation extension\000Afrom chrome not reachable\000A  (Session info: chrome=60.0.3112.113)\000A  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002Cplatform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 4.07 seconds\000ABuild info: version: '3.0.1'\002C revision: '1969d75'\002C time: '2016-10-18 09:49:13 -0700'\000ASystem info: host: 'Lenovo-PC'\002C ip: '192.175.3.237'\002C os.name: 'Windows 8.1'\002C os.arch: 'amd64'\002C os.version: '6.3'\002C java.version: '1.8.0_131'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities [{applicationCacheEnabled=false\002C rotatable=false\002C mobileEmulationEnabled=false\002C networkConnectionEnabled=false\002C chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002C userDataDir=C:\005CUsers\005CTOOKIT~1\005CAppData\005CLocal\005CTemp\005Cscoped_dir8056_1087}\002C takesHeapSnapshot=true\002C pageLoadStrategy=normal\002C databaseEnabled=false\002C handlesAlerts=true\002C hasTouchScreen=false\002C version=60.0.3112.113\002C platform=WIN8_1\002C browserConnectionEnabled=false\002C nativeEvents=true\002C acceptSslCerts=true\002C locationContextEnabled=true\002C webStorageEnabled=true\002C browserName=chrome\002C takesScreenshot=true\002C javascriptEnabled=true\002C cssSelectorsEnabled=true\002C unexpectedAlertBehaviour=}]\000ASession ID: 7ca74cb593ee46ff823186991823beb4,null
+
+
+# Created on 2017-09-04T13:37:58.141
+Unexpected IOException: 9,1,commonMethods.Testcases,rblTransformAggregate(commonMethods.Testcases),null,unknown error: cannot get automation extension\000Afrom chrome not reachable\000A  (Session info: chrome=60.0.3112.113)\000A  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002Cplatform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 4.07 seconds\000ABuild info: version: '3.0.1'\002C revision: '1969d75'\002C time: '2016-10-18 09:49:13 -0700'\000ASystem info: host: 'Lenovo-PC'\002C ip: '192.175.3.237'\002C os.name: 'Windows 8.1'\002C os.arch: 'amd64'\002C os.version: '6.3'\002C java.version: '1.8.0_131'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities [{applicationCacheEnabled=false\002C rotatable=false\002C mobileEmulationEnabled=false\002C networkConnectionEnabled=false\002C chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002C userDataDir=C:\005CUsers\005CTOOKIT~1\005CAppData\005CLocal\005CTemp\005Cscoped_dir8056_1087}\002C takesHeapSnapshot=true\002C pageLoadStrategy=normal\002C databaseEnabled=false\002C handlesAlerts=true\002C hasTouchScreen=false\002C version=60.0.3112.113\002C platform=WIN8_1\002C browserConnectionEnabled=false\002C nativeEvents=true\002C acceptSslCerts=true\002C locationContextEnabled=true\002C webStorageEnabled=true\002C browserName=chrome\002C takesScreenshot=true\002C javascriptEnabled=true\002C cssSelectorsEnabled=true\002C unexpectedAlertBehaviour=}]\000ASession ID: 7ca74cb593ee46ff823186991823beb4,null
+
+
+# Created on 2017-09-04T13:37:58.144
+Unexpected IOException: 9,1,commonMethods.Testcases,rblTransformSlide(commonMethods.Testcases),null,unknown error: cannot get automation extension\000Afrom chrome not reachable\000A  (Session info: chrome=60.0.3112.113)\000A  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002Cplatform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 4.07 seconds\000ABuild info: version: '3.0.1'\002C revision: '1969d75'\002C time: '2016-10-18 09:49:13 -0700'\000ASystem info: host: 'Lenovo-PC'\002C ip: '192.175.3.237'\002C os.name: 'Windows 8.1'\002C os.arch: 'amd64'\002C os.version: '6.3'\002C java.version: '1.8.0_131'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities [{applicationCacheEnabled=false\002C rotatable=false\002C mobileEmulationEnabled=false\002C networkConnectionEnabled=false\002C chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002C userDataDir=C:\005CUsers\005CTOOKIT~1\005CAppData\005CLocal\005CTemp\005Cscoped_dir8056_1087}\002C takesHeapSnapshot=true\002C pageLoadStrategy=normal\002C databaseEnabled=false\002C handlesAlerts=true\002C hasTouchScreen=false\002C version=60.0.3112.113\002C platform=WIN8_1\002C browserConnectionEnabled=false\002C nativeEvents=true\002C acceptSslCerts=true\002C locationContextEnabled=true\002C webStorageEnabled=true\002C browserName=chrome\002C takesScreenshot=true\002C javascriptEnabled=true\002C cssSelectorsEnabled=true\002C unexpectedAlertBehaviour=}]\000ASession ID: 7ca74cb593ee46ff823186991823beb4,null
+
+
+# Created on 2017-09-04T13:37:58.147
+Unexpected IOException: 9,1,commonMethods.Testcases,rblTransformAggregate2(commonMethods.Testcases),null,unknown error: cannot get automation extension\000Afrom chrome not reachable\000A  (Session info: chrome=60.0.3112.113)\000A  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002Cplatform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 4.07 seconds\000ABuild info: version: '3.0.1'\002C revision: '1969d75'\002C time: '2016-10-18 09:49:13 -0700'\000ASystem info: host: 'Lenovo-PC'\002C ip: '192.175.3.237'\002C os.name: 'Windows 8.1'\002C os.arch: 'amd64'\002C os.version: '6.3'\002C java.version: '1.8.0_131'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities [{applicationCacheEnabled=false\002C rotatable=false\002C mobileEmulationEnabled=false\002C networkConnectionEnabled=false\002C chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002C userDataDir=C:\005CUsers\005CTOOKIT~1\005CAppData\005CLocal\005CTemp\005Cscoped_dir8056_1087}\002C takesHeapSnapshot=true\002C pageLoadStrategy=normal\002C databaseEnabled=false\002C handlesAlerts=true\002C hasTouchScreen=false\002C version=60.0.3112.113\002C platform=WIN8_1\002C browserConnectionEnabled=false\002C nativeEvents=true\002C acceptSslCerts=true\002C locationContextEnabled=true\002C webStorageEnabled=true\002C browserName=chrome\002C takesScreenshot=true\002C javascriptEnabled=true\002C cssSelectorsEnabled=true\002C unexpectedAlertBehaviour=}]\000ASession ID: 7ca74cb593ee46ff823186991823beb4,null
+
+
+# Created on 2017-09-04T13:37:58.151
+Unexpected IOException: 9,1,commonMethods.Testcases,rblTransformationTranspose(commonMethods.Testcases),null,unknown error: cannot get automation extension\000Afrom chrome not reachable\000A  (Session info: chrome=60.0.3112.113)\000A  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002Cplatform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 4.07 seconds\000ABuild info: version: '3.0.1'\002C revision: '1969d75'\002C time: '2016-10-18 09:49:13 -0700'\000ASystem info: host: 'Lenovo-PC'\002C ip: '192.175.3.237'\002C os.name: 'Windows 8.1'\002C os.arch: 'amd64'\002C os.version: '6.3'\002C java.version: '1.8.0_131'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities [{applicationCacheEnabled=false\002C rotatable=false\002C mobileEmulationEnabled=false\002C networkConnectionEnabled=false\002C chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002C userDataDir=C:\005CUsers\005CTOOKIT~1\005CAppData\005CLocal\005CTemp\005Cscoped_dir8056_1087}\002C takesHeapSnapshot=true\002C pageLoadStrategy=normal\002C databaseEnabled=false\002C handlesAlerts=true\002C hasTouchScreen=false\002C version=60.0.3112.113\002C platform=WIN8_1\002C browserConnectionEnabled=false\002C nativeEvents=true\002C acceptSslCerts=true\002C locationContextEnabled=true\002C webStorageEnabled=true\002C browserName=chrome\002C takesScreenshot=true\002C javascriptEnabled=true\002C cssSelectorsEnabled=true\002C unexpectedAlertBehaviour=}]\000ASession ID: 7ca74cb593ee46ff823186991823beb4,null
+
+
+# Created on 2017-09-04T13:37:58.154
+Unexpected IOException: 9,1,commonMethods.Testcases,rblTransformJoin(commonMethods.Testcases),null,unknown error: cannot get automation extension\000Afrom chrome not reachable\000A  (Session info: chrome=60.0.3112.113)\000A  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002Cplatform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 4.07 seconds\000ABuild info: version: '3.0.1'\002C revision: '1969d75'\002C time: '2016-10-18 09:49:13 -0700'\000ASystem info: host: 'Lenovo-PC'\002C ip: '192.175.3.237'\002C os.name: 'Windows 8.1'\002C os.arch: 'amd64'\002C os.version: '6.3'\002C java.version: '1.8.0_131'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities [{applicationCacheEnabled=false\002C rotatable=false\002C mobileEmulationEnabled=false\002C networkConnectionEnabled=false\002C chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002C userDataDir=C:\005CUsers\005CTOOKIT~1\005CAppData\005CLocal\005CTemp\005Cscoped_dir8056_1087}\002C takesHeapSnapshot=true\002C pageLoadStrategy=normal\002C databaseEnabled=false\002C handlesAlerts=true\002C hasTouchScreen=false\002C version=60.0.3112.113\002C platform=WIN8_1\002C browserConnectionEnabled=false\002C nativeEvents=true\002C acceptSslCerts=true\002C locationContextEnabled=true\002C webStorageEnabled=true\002C browserName=chrome\002C takesScreenshot=true\002C javascriptEnabled=true\002C cssSelectorsEnabled=true\002C unexpectedAlertBehaviour=}]\000ASession ID: 7ca74cb593ee46ff823186991823beb4,null
+
+
+# Created on 2017-09-04T13:37:58.157
+Unexpected IOException: 9,1,commonMethods.Testcases,rblTransformJoin2(commonMethods.Testcases),null,unknown error: cannot get automation extension\000Afrom chrome not reachable\000A  (Session info: chrome=60.0.3112.113)\000A  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002Cplatform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 4.07 seconds\000ABuild info: version: '3.0.1'\002C revision: '1969d75'\002C time: '2016-10-18 09:49:13 -0700'\000ASystem info: host: 'Lenovo-PC'\002C ip: '192.175.3.237'\002C os.name: 'Windows 8.1'\002C os.arch: 'amd64'\002C os.version: '6.3'\002C java.version: '1.8.0_131'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities [{applicationCacheEnabled=false\002C rotatable=false\002C mobileEmulationEnabled=false\002C networkConnectionEnabled=false\002C chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002C userDataDir=C:\005CUsers\005CTOOKIT~1\005CAppData\005CLocal\005CTemp\005Cscoped_dir8056_1087}\002C takesHeapSnapshot=true\002C pageLoadStrategy=normal\002C databaseEnabled=false\002C handlesAlerts=true\002C hasTouchScreen=false\002C version=60.0.3112.113\002C platform=WIN8_1\002C browserConnectionEnabled=false\002C nativeEvents=true\002C acceptSslCerts=true\002C locationContextEnabled=true\002C webStorageEnabled=true\002C browserName=chrome\002C takesScreenshot=true\002C javascriptEnabled=true\002C cssSelectorsEnabled=true\002C unexpectedAlertBehaviour=}]\000ASession ID: 7ca74cb593ee46ff823186991823beb4,null
+
+
+# Created on 2017-09-04T13:37:58.160
+Unexpected IOException: 9,1,commonMethods.Testcases,rblTransformSplit(commonMethods.Testcases),null,unknown error: cannot get automation extension\000Afrom chrome not reachable\000A  (Session info: chrome=60.0.3112.113)\000A  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002Cplatform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 4.07 seconds\000ABuild info: version: '3.0.1'\002C revision: '1969d75'\002C time: '2016-10-18 09:49:13 -0700'\000ASystem info: host: 'Lenovo-PC'\002C ip: '192.175.3.237'\002C os.name: 'Windows 8.1'\002C os.arch: 'amd64'\002C os.version: '6.3'\002C java.version: '1.8.0_131'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities [{applicationCacheEnabled=false\002C rotatable=false\002C mobileEmulationEnabled=false\002C networkConnectionEnabled=false\002C chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002C userDataDir=C:\005CUsers\005CTOOKIT~1\005CAppData\005CLocal\005CTemp\005Cscoped_dir8056_1087}\002C takesHeapSnapshot=true\002C pageLoadStrategy=normal\002C databaseEnabled=false\002C handlesAlerts=true\002C hasTouchScreen=false\002C version=60.0.3112.113\002C platform=WIN8_1\002C browserConnectionEnabled=false\002C nativeEvents=true\002C acceptSslCerts=true\002C locationContextEnabled=true\002C webStorageEnabled=true\002C browserName=chrome\002C takesScreenshot=true\002C javascriptEnabled=true\002C cssSelectorsEnabled=true\002C unexpectedAlertBehaviour=}]\000ASession ID: 7ca74cb593ee46ff823186991823beb4,null
+
+
+# Created on 2017-09-04T13:37:58.164
+Unexpected IOException: 9,1,commonMethods.Testcases,amlModel(commonMethods.Testcases),null,unknown error: cannot get automation extension\000Afrom chrome not reachable\000A  (Session info: chrome=60.0.3112.113)\000A  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002Cplatform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 4.07 seconds\000ABuild info: version: '3.0.1'\002C revision: '1969d75'\002C time: '2016-10-18 09:49:13 -0700'\000ASystem info: host: 'Lenovo-PC'\002C ip: '192.175.3.237'\002C os.name: 'Windows 8.1'\002C os.arch: 'amd64'\002C os.version: '6.3'\002C java.version: '1.8.0_131'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities [{applicationCacheEnabled=false\002C rotatable=false\002C mobileEmulationEnabled=false\002C networkConnectionEnabled=false\002C chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002C userDataDir=C:\005CUsers\005CTOOKIT~1\005CAppData\005CLocal\005CTemp\005Cscoped_dir8056_1087}\002C takesHeapSnapshot=true\002C pageLoadStrategy=normal\002C databaseEnabled=false\002C handlesAlerts=true\002C hasTouchScreen=false\002C version=60.0.3112.113\002C platform=WIN8_1\002C browserConnectionEnabled=false\002C nativeEvents=true\002C acceptSslCerts=true\002C locationContextEnabled=true\002C webStorageEnabled=true\002C browserName=chrome\002C takesScreenshot=true\002C javascriptEnabled=true\002C cssSelectorsEnabled=true\002C unexpectedAlertBehaviour=}]\000ASession ID: 7ca74cb593ee46ff823186991823beb4,null
+
+
+# Created on 2017-09-04T13:37:58.167
+Unexpected IOException: 9,1,commonMethods.Testcases,rblModel(commonMethods.Testcases),null,unknown error: cannot get automation extension\000Afrom chrome not reachable\000A  (Session info: chrome=60.0.3112.113)\000A  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002Cplatform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 4.07 seconds\000ABuild info: version: '3.0.1'\002C revision: '1969d75'\002C time: '2016-10-18 09:49:13 -0700'\000ASystem info: host: 'Lenovo-PC'\002C ip: '192.175.3.237'\002C os.name: 'Windows 8.1'\002C os.arch: 'amd64'\002C os.version: '6.3'\002C java.version: '1.8.0_131'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities [{applicationCacheEnabled=false\002C rotatable=false\002C mobileEmulationEnabled=false\002C networkConnectionEnabled=false\002C chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002C userDataDir=C:\005CUsers\005CTOOKIT~1\005CAppData\005CLocal\005CTemp\005Cscoped_dir8056_1087}\002C takesHeapSnapshot=true\002C pageLoadStrategy=normal\002C databaseEnabled=false\002C handlesAlerts=true\002C hasTouchScreen=false\002C version=60.0.3112.113\002C platform=WIN8_1\002C browserConnectionEnabled=false\002C nativeEvents=true\002C acceptSslCerts=true\002C locationContextEnabled=true\002C webStorageEnabled=true\002C browserName=chrome\002C takesScreenshot=true\002C javascriptEnabled=true\002C cssSelectorsEnabled=true\002C unexpectedAlertBehaviour=}]\000ASession ID: 7ca74cb593ee46ff823186991823beb4,null
+
+
+# Created on 2017-09-04T13:37:58.171
+Unexpected IOException: 9,1,commonMethods.Testcases,amlPipeline(commonMethods.Testcases),null,unknown error: cannot get automation extension\000Afrom chrome not reachable\000A  (Session info: chrome=60.0.3112.113)\000A  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002Cplatform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 4.07 seconds\000ABuild info: version: '3.0.1'\002C revision: '1969d75'\002C time: '2016-10-18 09:49:13 -0700'\000ASystem info: host: 'Lenovo-PC'\002C ip: '192.175.3.237'\002C os.name: 'Windows 8.1'\002C os.arch: 'amd64'\002C os.version: '6.3'\002C java.version: '1.8.0_131'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities [{applicationCacheEnabled=false\002C rotatable=false\002C mobileEmulationEnabled=false\002C networkConnectionEnabled=false\002C chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002C userDataDir=C:\005CUsers\005CTOOKIT~1\005CAppData\005CLocal\005CTemp\005Cscoped_dir8056_1087}\002C takesHeapSnapshot=true\002C pageLoadStrategy=normal\002C databaseEnabled=false\002C handlesAlerts=true\002C hasTouchScreen=false\002C version=60.0.3112.113\002C platform=WIN8_1\002C browserConnectionEnabled=false\002C nativeEvents=true\002C acceptSslCerts=true\002C locationContextEnabled=true\002C webStorageEnabled=true\002C browserName=chrome\002C takesScreenshot=true\002C javascriptEnabled=true\002C cssSelectorsEnabled=true\002C unexpectedAlertBehaviour=}]\000ASession ID: 7ca74cb593ee46ff823186991823beb4,null
+
+
+# Created on 2017-09-04T13:37:58.175
+Unexpected IOException: 9,1,commonMethods.Testcases,rblPipeline(commonMethods.Testcases),null,unknown error: cannot get automation extension\000Afrom chrome not reachable\000A  (Session info: chrome=60.0.3112.113)\000A  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002Cplatform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 4.07 seconds\000ABuild info: version: '3.0.1'\002C revision: '1969d75'\002C time: '2016-10-18 09:49:13 -0700'\000ASystem info: host: 'Lenovo-PC'\002C ip: '192.175.3.237'\002C os.name: 'Windows 8.1'\002C os.arch: 'amd64'\002C os.version: '6.3'\002C java.version: '1.8.0_131'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities [{applicationCacheEnabled=false\002C rotatable=false\002C mobileEmulationEnabled=false\002C networkConnectionEnabled=false\002C chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002C userDataDir=C:\005CUsers\005CTOOKIT~1\005CAppData\005CLocal\005CTemp\005Cscoped_dir8056_1087}\002C takesHeapSnapshot=true\002C pageLoadStrategy=normal\002C databaseEnabled=false\002C handlesAlerts=true\002C hasTouchScreen=false\002C version=60.0.3112.113\002C platform=WIN8_1\002C browserConnectionEnabled=false\002C nativeEvents=true\002C acceptSslCerts=true\002C locationContextEnabled=true\002C webStorageEnabled=true\002C browserName=chrome\002C takesScreenshot=true\002C javascriptEnabled=true\002C cssSelectorsEnabled=true\002C unexpectedAlertBehaviour=}]\000ASession ID: 7ca74cb593ee46ff823186991823beb4,null
+
+
+# Created on 2017-09-04T13:37:58.177
+Unexpected IOException: 9,1,commonMethods.Testcases,teardown(commonMethods.Testcases),null,null,null
+
+
+# Created on 2017-09-04T13:37:58.723
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGXmlTestSuite,TestSuite,null,null,null
+
+
